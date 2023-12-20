@@ -1,0 +1,16 @@
+D:\Project Visual Studio\Meja_03\Meja_03\bin\Debug\Meja_03.exe.config
+D:\Project Visual Studio\Meja_03\Meja_03\bin\Debug\Meja_03.exe
+D:\Project Visual Studio\Meja_03\Meja_03\bin\Debug\Meja_03.pdb
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.csproj.AssemblyReference.cache
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.csproj.SuggestedBindingRedirects.cache
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.Properties.Resources.resources
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.csproj.GenerateResource.cache
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.exe
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.pdb
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.Login.resources
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.CentralAdminNavigation.resources
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.LogisticsAdminNavigation.resources
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.SuperAdminNavigation.resources
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.ChangePassword.resources
+D:\Project Visual Studio\Meja_03\Meja_03\obj\Debug\Meja_03.ManageUnit.resources
